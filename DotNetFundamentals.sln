@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{3DE76B61-D897-499D-BF46-8FA44546BBCF}"
+	ProjectSection(SolutionItems) = preProject
+		0.01_hellowworld.html = 0.01_hellowworld.html
+		2 truths and one lie.html = 2 truths and one lie.html
+		Tags.html = Tags.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
