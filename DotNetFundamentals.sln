@@ -5,13 +5,25 @@ VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_html", "1_html", "{3DE76B61-D897-499D-BF46-8FA44546BBCF}"
 	ProjectSection(SolutionItems) = preProject
-		0.01_hellowworld.html = 0.01_hellowworld.html
-		2 truths and one lie.html = 2 truths and one lie.html
-		Tags.html = Tags.html
+		0.01_hello_world.html = 0.01_hello_world.html
+		0.02_h_ptags.html = 0.02_h_ptags.html
+		0.03_lists.html = 0.03_lists.html
+		0.04_links.html = 0.04_links.html
+		0.05_images.html = 0.05_images.html
+		0.06_tables.html = 0.06_tables.html
+		0.07_divs.html = 0.07_divs.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{1DFB3B6F-0247-4470-96D3-891B8956F955}"
+	ProjectSection(SolutionItems) = preProject
+		SouthParkBoys_(Medium).jpg = SouthParkBoys_(Medium).jpg
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1DFB3B6F-0247-4470-96D3-891B8956F955} = {3DE76B61-D897-499D-BF46-8FA44546BBCF}
 	EndGlobalSection
 EndGlobal
